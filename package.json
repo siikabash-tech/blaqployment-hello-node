@@ -1,0 +1,12 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The smallest Node app BLAQPLOYMENT can deploy: no dependencies, no Dockerfile.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
